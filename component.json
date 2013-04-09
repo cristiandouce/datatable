@@ -7,7 +7,7 @@
   "twitter": "@retrofox",
   "keywords": ["datatable", "data", "sorttable"],
   "dependencies": {
-    "component/pager": "*",
+    "cristiandouce/pager": "dom",
     "component/type": "*",
     "component/dom": "*",
     "cristiandouce/tags-free": "*"
